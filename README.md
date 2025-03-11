@@ -9,7 +9,7 @@ compatibility. A pre-trained parent model is processed into
 child models of decreasing size over an indefinite number of 
 rounds. A routine of pruning and finetuning is applied until
 reaching one of two possible stop conditions:
-1. Filter sizes in the child model remain unchanged after a pruning ratio is applied. I.e. the number of filters in a layer are low enough that the calculated numbers of filters after rounding remain the same (2 filters at 0.3 pruning rate = 2 fitlers).
+1. Filter sizes in the child model remain unchanged after a pruning ratio is applied. I.e. the number of filters in a layer are low enough that the calculated numbers of filters after rounding remain the same (2 filters at 0.3 pruning rate = 2 filters).
 2. A child model fails to meet a set accuracy threshold after increasing the search space to the maximum set value. In other words, it is found that reducing the model further results in an ineffective model.
 
 ## Reference

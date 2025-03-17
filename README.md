@@ -60,5 +60,7 @@ before running any of the following commands.
 
 ## Contacts
 Logan Reichling reichlln@mail.uc.edu
+
 Ryan Evans evans2ra@mail.uc.edu
+
 Boyang Wang boyang.wang@uc.edu

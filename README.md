@@ -1,6 +1,6 @@
 # MicroPower
 
-
+**The code is for research purpose only**
 
 MicroPower is an iterative algorithm designed to automatically prune 
 side channel models to their practical minimum while retaining
@@ -14,8 +14,9 @@ reaching one of two possible stop conditions:
 
 ## Reference
 
-When creating pruned models using techniques found within one should cite the following:
-* ```<to be updated>```
+When reporting results that use the code in this repository, please cite the paper below:
+
+Logan Reichling, Ryan Evans, Mabon Ninan, Phuc Mai, Boyang Wang, Yunsi Fei, and John M. Emmert, "MicroPower: Micro Neural Networks for Side-Channel Attacks," IEEE International Symposium on Hardware Oriented Security and Trust (**HOST 2025**), San Jose, May 5-8, 2025
 
 # Content
 

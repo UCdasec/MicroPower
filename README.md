@@ -58,3 +58,7 @@ before running any of the following commands.
 5. Test a model using testing traces:
     - ```python3 test.py -i /home/logan/datasets/S2_K3_100k.npz -m /home/logan/IterativePruning/tests/Experiment1/STM32/CNNIterativePruned_B2_STM32_1200to2200_ID_150e_50000t_Retrain_008_30per/TemperedRound44/ -aw 1200_2200 -lm ID -tb 2 -tn 5000```
 
+## Contacts
+Logan Reichling reichlln@mail.uc.edu
+Ryan Evans evans2ra@mail.uc.edu
+Boyang Wang boyang.wang@uc.edu
